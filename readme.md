@@ -14,17 +14,21 @@ Welcome to **Resume Builder**, a modern web application built with React.js for 
 - [Contributing](#contributing)
 - [License](#license)
 
-## Overview
+## 🔍 Overview
+**Resume Builder** is designed for job seekers, students, and professionals to easily draft, preview, and export resumes — all from within a browser. The application provides customizable layouts, real-time editing, and supports export to print-ready or PDF formats.
 
-**Resume Builder** helps users design, customize, and export resumes with an intuitive interface. Whether you're a student or a professional, this app streamlines the process of showcasing your skills and experience.
+💡 Whether you're a developer or a non-tech user, this tool simplifies the process of crafting a standout resume.
 
-## Features
+## ✨ Features
+-⚛️ Component-Based Architecture using React
+-🎨 Customizable Templates & Styling
+-👁️ Real-Time Resume Preview
+-📄 Export as PDF or Print Format
+-📱 Fully Responsive for Desktop, Tablet & Mobile
+-💾 Data Persistence (optional: via localStorage or backend)
+-🌐 Cross-Browser Compatibility
 
-- Build resumes using modular React components
-- Customizable templates and styles
-- Live preview of the resume
-- Export resume as PDF or print-ready format
-- Responsive design for all devices
+
 
 ## Getting Started
 
