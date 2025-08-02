@@ -18,3 +18,7 @@ A comparison with GPT-4
 Architecture-level breakdown
 
 Timeline of Gemini releases (1.0, 1.5 etc.)
+
+
+adding more and more
+
