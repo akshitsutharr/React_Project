@@ -7,3 +7,5 @@ The Gemini model, developed by Google DeepMind, is based on a Large Language Mod
 
 ✅ In One Simple Paragraph:
 The Gemini model is based on a multimodal architecture, meaning it is designed to handle text, images, audio, video, and code together. It is part of Google’s next-generation AI family and combines the power of large-scale transformer models (like GPT) with advanced reasoning and perception capabilities. Gemini is built upon Google's prior models like PaLM 2, enhanced with innovations from AlphaGo (reinforcement learning and planning). It can not only answer questions like ChatGPT but also interpret images, analyze graphs, write code, and even perform step-by-step logical reasoning. Gemini is trained on a mixture of datasets and optimized to be useful across web search, education, coding, and vision-language tasks.
+
+adding more detailed
